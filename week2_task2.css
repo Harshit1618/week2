@@ -1,0 +1,36 @@
+.carousel-image{
+    height: 800px;
+}
+.col{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.col{
+background-color:aliceblue;
+
+}
+
+.row
+{
+    padding: 5% 0;
+}
+.h2{
+    padding-top: 2%;
+    padding-left: 3%;
+    position: relative;
+    top: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+#card-section{
+    padding-right: 2rem;
+    padding-left: 2rem;
+    border-radius: 5rem;
+}
+#navigation{
+    background-color: bisque;
+
+}
+.navbar-brand{
+    padding-left: 2%;
+    font-size:xx-large;
+}
